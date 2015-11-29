@@ -6,4 +6,4 @@ GAE(Google App Engine)をproxyサーバとして利用するアプリ
 リンクをクリックしてもproxyが使われ続けるようにする。
 
 #実際のサイト
-http://weightmange.appspot.com/main 
+http://siteutf8.appspot.com/main
